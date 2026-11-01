@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.xcruzia.twa",
+    "sha256_cert_fingerprints": ["54:D6:68:4C:1C:49:97:54:7E:BD:AA:89:98:2C:47:FA:A7:DE:D4:6B:2A:39:92:95:67:1D:D9:37:EE:16:26:98"]
+  }
+}]
